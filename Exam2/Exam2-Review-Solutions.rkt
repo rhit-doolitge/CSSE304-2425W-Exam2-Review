@@ -4,7 +4,7 @@
 
 (provide slay-slime mine-for-diamonds and-eval grade-tests eval-one-exp)
 ;-----------------------------------------------
-; Follow The Grammer
+; Follow The Grammar
 ;-----------------------------------------------
 
 ; Problem 1: Slaying Slimes
